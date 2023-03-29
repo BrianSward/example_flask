@@ -6,7 +6,7 @@ This is a simple Flask application that defines an API endpoint for receiving us
 
 To run this Flask application, you'll need:
 
-- Python 3.x (for example)
+- Python 3.x (for example)  
         `python3.11 -m venv .venv`
 - Then just use  
         `pip install -r requirements.txt`
