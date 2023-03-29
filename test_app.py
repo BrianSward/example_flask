@@ -32,10 +32,12 @@ def test_user_post_route():
     assert response_data['data']['username'] == expected_data['data']['username']
     assert response_data['data']['text'] == expected_data['data']['text']
     assert response_data['data']['created'][:19] == expected_data['data']['created'][:19]
-    
+
+
+   # will remove these after confirming test results 
     print("response data: ", response_data)  
     print("expected data: ", expected_data)
 
 
-
+# will remove after confirming test results
 test_user_post_route()
