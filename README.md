@@ -26,7 +26,8 @@ This repository includes a simple backend test for the /user-post endpoint, impl
 
 - Ensure that the Flask server is running (python app.py).
 - Open a terminal or command prompt and navigate to the repository directory.
-- Run the test_app.py file: python -m pytest test_app.py
+- Run the test_app.py file:  
+    `python -m pytest test_app.py`
 - The test should pass if the /user-post endpoint returns the expected JSON response.
 
 ## License
