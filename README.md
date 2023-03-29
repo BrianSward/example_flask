@@ -9,7 +9,8 @@ To run this Flask application, you'll need:
 - Python 3.x
 - The Flask package (pip install flask)
 - The requests package (for running tests only; pip install requests)
-- Use the attached requirements.txt
+- Just use  
+        `pip install -r requirements.txt`
 
 ## Usage
 
