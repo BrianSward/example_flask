@@ -15,7 +15,7 @@ To run this Flask application, you'll need:
 
 1. Clone this repository to your local machine.
 2. Open a terminal or command prompt and navigate to the repository directory.
-3. Run the app.py file to start the Flask server:  
+3. To start the Flask server:  
     `flask run`
 4. Send a POST request to the /user-post endpoint with a JSON payload containing a username and text field. For example:  
     `curl -X POST -H "Content-Type: application/json" -d '{"username": "testUsername", "text": "testText"}' http://localhost:5000/user-post`
