@@ -37,5 +37,5 @@ This Flask User Post API is released under the MIT License. See LICENSE for deta
 
 ### Acknowledgments
 
-- This Flask application is based on the Flask tutorial found at https://flask.palletsprojects.com/en/2.0.x/quickstart/.
+- This Flask application is based on the Flask tutorial found [here](https://flask.palletsprojects.com/en/2.0.x/quickstart/).
 - My teachers at Codefellows.
